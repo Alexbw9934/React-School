@@ -1,0 +1,4 @@
+export const RETRIEVE_INFO = 'RETRIEVE_INFO'
+export const INFO_POST = 'INFO_POST'
+export const INFO_UPDATE = 'INFO_UPDATE'
+export const RETRIEVE_USERS = 'RETRIEVE_USERS'
